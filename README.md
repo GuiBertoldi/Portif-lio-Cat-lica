@@ -1,7 +1,7 @@
 # Portifolio-Catolica
 
 #Resumo:
-O presente documento abordará o escopo e as etapas do desenvolvimento de software, como por exemplo requisitos funcionais, não funcionais, tecnologias utilizadas, diagramas de casos de uso dentre outras especificações do desenvolvimento da aplicação. O principal objetivo deste projeto é demonstrar na prática, os conceitos abordados durante o curso de engenharia de software, visando o desenvolvimento de uma aplicação, que cumpra os pré-requisitos definidos pelo corpo docente, desde a etapa de planejamento e coleta de requisitos até o desenvolvimento e o deploy. O tema escolhido para o projeto, foi um software web voltado a pequenos consultórios de psicologia, visando facilitar a criação e gerenciamento de prontuários e agendamentos. O sistema terá as funcionalidades de gestão de prontuários, agendamentos e impressão de documentos
+O sistema é voltado para pequenos consultórios de psicologia, realizando o prontuários dos pacientes, impressão de documentos e agendamento de consultas, pois normalmente consultórios de pequeno porte não possuem um sistema, sendo feito agendamentos e gerenciamento de prontuários manualmente.
 
 #Repoitório do projeto:
 https://github.com/GuiBertoldi/portifolioCatolica/
